@@ -11,3 +11,9 @@ body{
     background-color: rgb(87, 168, 172) ;
     color: azure;
  }
+.passo{
+    display: none;
+}
+.passo.ativo{
+    display: block;
+}
