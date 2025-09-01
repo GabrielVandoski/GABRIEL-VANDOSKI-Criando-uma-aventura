@@ -1,4 +1,13 @@
 body{
   background-color:lightskyblue ;
   color: ivory;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 700px;
+  margin: 0;
 }
+ button{
+    background-color: rgb(87, 168, 172) ;
+    color: azure;
+ }
